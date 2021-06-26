@@ -1,2 +1,3 @@
 - Konsisten belajar programing
 - Bingung antara MERN, MEAN dan MEVN
+- Belajar Github
