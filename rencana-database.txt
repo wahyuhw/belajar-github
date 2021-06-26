@@ -1,1 +1,4 @@
 Rencana belajar database
+
+- Membuat database
+- Membuat table
